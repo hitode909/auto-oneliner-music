@@ -10,3 +10,9 @@ Generate one liner music from your activity.
 ## Run
 
     ./run
+
+## Requirement
+
+* Mac
+* Ruby
+* Node.js
