@@ -1,0 +1,3 @@
+#! /bin/sh
+
+ruby a.rb | node b.js | webtail --rc=c.js
